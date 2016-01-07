@@ -1,0 +1,7 @@
+eclipse.preferences.version=1
+org.jboss.tools.openshift.ApplicationId=55ebecf02d527139f60001b4
+org.jboss.tools.openshift.ApplicationName=pilot
+org.jboss.tools.openshift.Connection=https\://weyun0513%40hotmail.com@
+org.jboss.tools.openshift.DeployFolder=webapps
+org.jboss.tools.openshift.Domain=mpilotregister
+org.jboss.tools.openshift.RemoteName=openshift
